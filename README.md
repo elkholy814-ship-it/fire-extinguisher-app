@@ -1,2 +1,20 @@
-# fire-extinguisher-app
-fire-extinguisher-app
+# نظام إدارة طفايات الحريق
+
+تطبيق ويب لإدارة فحص طفايات الحريق مع الميزات التالية:
+- تسجيل دخول للمسؤولين
+- إدارة الطفايات (إضافة، تعديل، حذف)
+- استيراد من ملف CSV
+- تقارير شهرية مع تصدير
+
+## البيانات للتجربة
+- البريد: admin@fire-safety.com
+- كلمة المرور: admin123
+
+## التقنيات المستخدمة
+- React 18 + TypeScript
+- Tailwind CSS
+- Shadcn UI
+- Lucide Icons
+- Framer Motion
+
+## التشغيل المحلي
